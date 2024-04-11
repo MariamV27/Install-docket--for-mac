@@ -2,10 +2,11 @@
 
 #  Install Docker Desktop on Mac!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hello, in this document I help you to install easily docker on your Mac M2.
 
-![enter image description here](./dockerlogo.png)
-
+<div align="center">
+<img src="./dockerlogo.png" alt="Descripción de la imagen">
+</div>
 
 # 1
 Download the installer using the download buttons at the top of the page, or from the  [release notes](https://docs.docker.com/desktop/release-notes/).
@@ -30,3 +31,5 @@ The Docker menu displays the Docker Subscription Service Agreement.
 Select **Accept** to continue.
 
 **Note** *that Docker Desktop won't run if you do not agree to the terms. You can choose to accept the terms at a later date by opening Docker Desktop.*
+
+resources: https://docs.docker.com/desktop/install/mac-install/
